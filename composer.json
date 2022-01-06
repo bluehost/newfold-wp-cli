@@ -15,6 +15,6 @@
     ]
   },
   "require": {
-    "wp-forge/wp-scaffolding-tool": "@stable"
+    "wp-forge/wp-scaffolding-tool": "^1.1.1"
   }
 }
