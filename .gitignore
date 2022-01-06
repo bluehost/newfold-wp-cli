@@ -3,4 +3,5 @@
 .vscode
 
 # Composer dependencies
+composer.lock
 /vendor
