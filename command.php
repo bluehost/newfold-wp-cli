@@ -16,6 +16,6 @@ new Package(
 		'template_config_filename' => 'config.json',
 		'project_config_filename'  => '.newfold-project.json',
 		'global_config_filename'   => '.newfold.json',
-		'default_template_repo'    => 'git@github.com:bluehost/scaffolding-templates.git',
+		'default_template_repo'    => 'git@github.com:newfold-labs/scaffolding-templates.git',
 	)
 );
